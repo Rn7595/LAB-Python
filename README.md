@@ -1,7 +1,7 @@
 # Python and Machine Learning LAB
 
 
-LAB 1 (LAB_1_ipynb)
+LAB 1 (Exercise_01(1))
 Topics covered in this notebook:
 - Basic Python: Loops, string manipulation, Fibonacci sequence, and a Rock-Paper-Scissors game.
 - NumPy & Matplotlib: Loops vs vectorization performance, and a digit display simulation.
