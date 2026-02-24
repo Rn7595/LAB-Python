@@ -7,7 +7,7 @@ Topics covered in this notebook:
 - NumPy & Matplotlib: Loops vs vectorization performance, and a digit display simulation.
 - Pandas: Basic data manipulation on the California Housing dataset (filtering, handling NaN values, normalization, correlation matrix).
 
-Assignment 3 (LAB_3.py)
+Assignment  (LAB_3_MPA_MLF_SVM.ipynb)
 Topics covered in this script:
 - Support Vector Machines (SVM) for classification using the Iris dataset.
 - Data filtering, feature selection, and masking with NumPy.
